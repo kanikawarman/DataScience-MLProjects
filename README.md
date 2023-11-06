@@ -9,5 +9,6 @@ KNN folder contains:
 3) Knn_diabetes.ipnyb --> This jupyter notebook contains a simple implementation of K-NN model. In the first part,
 the prediction is done without the use of any k-nn libraries. In the second part, it uses sckit knn-library to make predictions.
 Then the comparison is made on both the implementation.
+4) Decision Tree: Trained and Predicted the model on Iris dataset (continuous values), using the scikit libraries and making the model from scratch. Comparing the results for both
 
 *********************** KNN ******************************
