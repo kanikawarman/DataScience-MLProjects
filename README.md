@@ -15,6 +15,7 @@ Then the comparison is made on both the implementation.
 Decision Tree: Trained and Predicted the model on Iris dataset (continuous values), using the scikit libraries and making the model from scratch. Comparing the results for both
 
 *********************** ML Project _ Improved Heart Diseased Prediction ******************************
+
 The folder contains:
 1) Project presentation - .ppt file
 2) Project Report
@@ -27,4 +28,5 @@ To further improve the algorithm, following methods have been implemented:
   1. Use feature selection to focus on attributes that contribute more to the target variable decision.
   2. Evaluate all the base models and use only the ones that have better result for the target variable compared to others.
   3. Use 2-level stacking
+     
 *********************** ML Project _ Improved Heart Diseased Prediction ******************************
