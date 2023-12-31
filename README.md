@@ -13,3 +13,18 @@ Then the comparison is made on both the implementation.
 *********************** KNN ******************************
 
 Decision Tree: Trained and Predicted the model on Iris dataset (continuous values), using the scikit libraries and making the model from scratch. Comparing the results for both
+
+*********************** ML Project _ Improved Heart Diseased Prediction ******************************
+The folder contains:
+1) Project presentation - .ppt file
+2) Project Report
+3) project implemented notebook
+   
+The focus of this project is to develop prediction algorithm using machine learning that could help in predicting heart diseases and other heart related ailments in humans.
+The machine learning technique used in the paper focus on ‘Stacked Ensemble’ Technique. 
+This machine learning project focuses on implementing an already published paper available at: https://arxiv.org/pdf/2304.06015.pdf
+To further improve the algorithm, following methods have been implemented:
+  1. Use feature selection to focus on attributes that contribute more to the target variable decision.
+  2. Evaluate all the base models and use only the ones that have better result for the target variable compared to others.
+  3. Use 2-level stacking
+*********************** ML Project _ Improved Heart Diseased Prediction ******************************
