@@ -1,32 +1,26 @@
 # DataScience-MLProjects
 This repository contains various case studies on various topics which use python, various python libraries for data wrangling, visualization, Ml models like KNN, Decision tree, Random Forest and more
 
-*********************** KNN ******************************
-
+Project1 : Deciphering KNN
 KNN folder contains:
 1) info file --> information about the content of the KNN folder.
 2) Introduction to KNN --> This document explains the concepts of K-nn
-3) Knn_diabetes.ipnyb --> This jupyter notebook contains a simple implementation of K-NN model. In the first part,
-the prediction is done without the use of any k-nn libraries. In the second part, it uses sckit knn-library to make predictions.
-Then the comparison is made on both the implementation.
+3) Knn_diabetes.ipnyb --> This jupyter notebook contains a simple implementation of K-NN model. In the first part, the prediction is done without the use of any k-nn libraries. In the second part, it uses sckit knn-library to make predictions. Then the comparison is made on both the implementation.
 
-*********************** KNN ******************************
-
+Project2 : Deciphering Decision Tree
 Decision Tree: Trained and Predicted the model on Iris dataset (continuous values), using the scikit libraries and making the model from scratch. Comparing the results for both
 
-*********************** ML Project _ Improved Heart Diseased Prediction ******************************
-
+Project3 : ML Project _ Improved Heart Diseased Prediction
 The folder contains:
 1) Project presentation - .ppt file
 2) Project Report
-3) project implemented notebook
-   
-The focus of this project is to develop prediction algorithm using machine learning that could help in predicting heart diseases and other heart related ailments in humans.
-The machine learning technique used in the paper focus on ‘Stacked Ensemble’ Technique. 
+3) project implemented notebook 
+The focus of this project is to develop prediction algorithm using machine learning that could help in predicting heart diseases and other heart related ailments in humans. The machine learning technique used in the paper focus on ‘Stacked Ensemble’ Technique. 
 This machine learning project focuses on implementing an already published paper available at: https://arxiv.org/pdf/2304.06015.pdf
 To further improve the algorithm, following methods have been implemented:
   1. Use feature selection to focus on attributes that contribute more to the target variable decision.
   2. Evaluate all the base models and use only the ones that have better result for the target variable compared to others.
   3. Use 2-level stacking
      
-*********************** ML Project _ Improved Heart Diseased Prediction ******************************
+Project4 : A/B Testing on AdSmart dataset
+Executed A/B testing on the AdSmart dataset employing statistical tools such as the z-test and proportion_confint. The results contributed to informed decision-making, optimizing advertising performance based on statistically significant findings.
