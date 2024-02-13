@@ -24,3 +24,6 @@ To further improve the algorithm, following methods have been implemented:
      
 Project4 : A/B Testing on AdSmart dataset
 Executed A/B testing on the AdSmart dataset employing statistical tools such as the z-test and proportion_confint. The results contributed to informed decision-making, optimizing advertising performance based on statistically significant findings.
+
+Project5 : Bank Churn Binary Classification
+Explore the Binary Classification with Bank Churn notebook! Predict customer churn, treating certain numerical features as categorical for improved accuracy. The project involves pipelines, data preprocessing, engineered features, and an ensemble learning approach using LGBM and XGBoost. A weighted voting classifier combines models for the final prediction on customer exit or retention.
