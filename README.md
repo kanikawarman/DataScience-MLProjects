@@ -27,3 +27,6 @@ Executed A/B testing on the AdSmart dataset employing statistical tools such as 
 
 Project5 : Bank Churn Binary Classification
 Explore the Binary Classification with Bank Churn notebook! Predict customer churn, treating certain numerical features as categorical for improved accuracy. The project involves pipelines, data preprocessing, engineered features, and an ensemble learning approach using LGBM and XGBoost. A weighted voting classifier combines models for the final prediction on customer exit or retention.
+
+Project 6: Implementing Neural Network with libraries / from scratch
+  mnist_nn_from_scratch --> This notebook implements a neural network from scratch without using external libraries on the MNIST dataset. The process involves       loading and preprocessing the dataset, creating the neural network architecture, training the model, and evaluating its performance using various metrics,         including accuracy and a detailed analysis with a confusion matrix and classification report.
