@@ -33,3 +33,6 @@ Project 6: Implementing Neural Network without libraries / from scratch
 
 Project 7: Implementing Neural Network with libraries
   mnist-using-lib.ipynb --> This notebook implements a neural network using Tensorflow and Kera libraries on the MNIST dataset. The process involves loading and preprocessing the dataset, training the model, and evaluating its performance using various metrics, including accuracy and a detailed analysis with a confusion matrix and classification report.
+
+Project 8: Movie Recommendation system
+  Movie_Recommendation_system.ipynb --> This notebook implements a KNN based content recommendation system for the customers similar to previously high-rated items by them.
