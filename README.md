@@ -36,3 +36,6 @@ Project 7: Implementing Neural Network with libraries
 
 Project 8: Movie Recommendation system
   Movie_Recommendation_system.ipynb --> This notebook implements a KNN based content recommendation system for the customers similar to previously high-rated items by them.
+
+Project 9: OCR_handwritten digits using OpenCV
+  OCR_Handwritten_openCV.ipynb --> Developed an OCR system for recognizing handwritten digits using OpenCV and k-Nearest Neighbors (kNN), achieving an initial accuracy of 9.43% on a dataset of 2500 samples. Implemented image preprocessing, block segmentation, and model training to classify digits from a custom dataset, demonstrating fundamental skills in computer vision and machine learning.
