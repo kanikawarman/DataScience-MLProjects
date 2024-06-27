@@ -39,3 +39,6 @@ Project 8: Movie Recommendation system
 
 Project 9: OCR_handwritten digits using OpenCV
   OCR_Handwritten_openCV.ipynb --> Developed an OCR system for recognizing handwritten digits using OpenCV and k-Nearest Neighbors (kNN), achieving an initial accuracy of 9.43% on a dataset of 2500 samples. Implemented image preprocessing, block segmentation, and model training to classify digits from a custom dataset, demonstrating fundamental skills in computer vision and machine learning.
+
+Project 10: Stroke Prediction Using Classification Models and SMOTE Sampling
+ Stroke Prediction Using Classification Models and SMOTE Sampling.ipynb --> Utilized diverse classification models including Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machine, Gradient Boosting, XGBoost, and LightGBM to predict stroke occurrence based on demographic and health parameters. Implemented SMOTE (Synthetic Minority Oversampling Technique) to address class imbalance, achieving up to 92.78% accuracy with XGBoost, 91.79% with Random Forest, and significant improvements in recall and precision metrics for each model.
