@@ -42,3 +42,6 @@ Project 9: OCR_handwritten digits using OpenCV
 
 Project 10: Stroke Prediction Using Classification Models and SMOTE Sampling
  Stroke Prediction Using Classification Models and SMOTE Sampling.ipynb --> Utilized diverse classification models including Logistic Regression, K-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machine, Gradient Boosting, XGBoost, and LightGBM to predict stroke occurrence based on demographic and health parameters. Implemented SMOTE (Synthetic Minority Oversampling Technique) to address class imbalance, achieving up to 92.78% accuracy with XGBoost, 91.79% with Random Forest, and significant improvements in recall and precision metrics for each model.
+
+Project 11: Loan Payment Prediction model
+ loan-payment-prediction.ipynb --> Developed a credit risk prediction model using a VotingClassifier with XGBoost, Logistic Regression, and Random Forest, achieving 97.5% accuracy and a mean squared error of 0.025.
