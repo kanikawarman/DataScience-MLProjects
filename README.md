@@ -45,3 +45,7 @@ Project 10: Stroke Prediction Using Classification Models and SMOTE Sampling
 
 Project 11: Credit Risk Modeling - Loan Payment Prediction model
  credit-risk-modeling.ipynb --> Developed a credit risk prediction model using a VotingClassifier with XGBoost, Logistic Regression, and Random Forest, achieving 97.5% accuracy and a mean squared error of 0.025.
+
+ Project 12: Sarcasm Detection in News Headlines Using Logistic Regression
+   Notebook --> Sarcasm Detection in News Headlines.ipynb
+   Objective --> This project implements a Logistic Regression model to detect sarcasm in news headlines. Utilizing linguistic features and sentiment analysis, the model is trained on pre-processed text data to classify headlines as sarcastic or non-sarcastic. Key techniques include feature extraction with TextBlob for sentiment analysis, text pre-processing using NLTK for tokenization and stemming, and the application of Logistic Regression with scikit-learn. The workflow encompasses data collection, feature engineering, text cleaning, model training, and evaluation.
