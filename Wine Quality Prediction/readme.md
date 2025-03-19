@@ -77,5 +77,5 @@ To run the project locally:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/wine-quality-prediction.git
-cd wine-quality-prediction
+git clone https://github.com/kanikawarman/DataScience-MLProjects.git
+cd DataScience-MLProjects/Wine\ Quality\ Prediction
